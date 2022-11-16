@@ -1,0 +1,1839 @@
+﻿$axure.loadCurrentPage({
+  "url":"romance.html",
+  "generationDate":new Date(1668594946706.09),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"f370ca00b6e44c4689a2eb769390f002",
+    "type":"Axure:Page",
+    "name":"Romance",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"79c584d9be5f4e5ca3ce1940bd8ecc0b",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Kunstler Script Bold', 'Kunstler Script'",
+            "fontSize":"72px",
+            "fontWeight":"700",
+            "location":{
+              "x":403,
+              "y":100},
+            "size":{
+              "width":519,
+              "height":79}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"07e8f419f7ad42b9bc2cf56183e96d25",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Kunstler Script Bold', 'Kunstler Script'",
+                "fontSize":"72px",
+                "fontWeight":"700",
+                "location":{
+                  "x":403,
+                  "y":100},
+                "size":{
+                  "width":519,
+                  "height":79}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"8d4963d0387f4097a016ad0980ffacf1",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+            "fontSize":"14px",
+            "fontWeight":"700",
+            "fontStyle":"italic",
+            "location":{
+              "x":40,
+              "y":250},
+            "size":{
+              "width":190,
+              "height":274}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3b8b8c6fa2ea48a5aadb476c057393a2",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+                "fontSize":"14px",
+                "fontWeight":"700",
+                "fontStyle":"italic",
+                "location":{
+                  "x":40,
+                  "y":250},
+                "size":{
+                  "width":190,
+                  "height":274}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open https://www.imdb.com/title/tt11365186/?ref_=fn_al_tt_1 in New Window/Tab",
+                      "target":{
+                        "targetType":"webUrl",
+                        "urlLiteral":{
+                          "exprType":"stringLiteral",
+                          "value":"https://www.imdb.com/title/tt11365186/?ref_=fn_al_tt_1",
+                          "stos":[]},
+                        "includeVariables":false},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/home/u26.png"}},
+{
+          "id":"79b426f9ec3f4a54943f7e82fe06d1a8",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+            "fontSize":"14px",
+            "fontWeight":"700",
+            "fontStyle":"italic",
+            "location":{
+              "x":67,
+              "y":528},
+            "size":{
+              "width":200,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7a03c418374a4825b30c9e20736c1711",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+                "fontSize":"14px",
+                "fontWeight":"700",
+                "fontStyle":"italic",
+                "location":{
+                  "x":67,
+                  "y":528},
+                "size":{
+                  "width":200,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"06fe60ce6cf842e7b699f0ca3fd1cb4b",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+            "fontSize":"14px",
+            "fontWeight":"700",
+            "fontStyle":"italic",
+            "location":{
+              "x":344,
+              "y":529},
+            "size":{
+              "width":200,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"967c141affd94087a1ee8a3ea479c460",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+                "fontSize":"14px",
+                "fontWeight":"700",
+                "fontStyle":"italic",
+                "location":{
+                  "x":344,
+                  "y":529},
+                "size":{
+                  "width":200,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"2de723e279e04098ba55863ee7c4c854",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+            "fontSize":"14px",
+            "fontWeight":"700",
+            "fontStyle":"italic",
+            "location":{
+              "x":284,
+              "y":250},
+            "size":{
+              "width":190,
+              "height":273}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"de72b61ce0d0442d91cbe1a68e7d2431",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+                "fontSize":"14px",
+                "fontWeight":"700",
+                "fontStyle":"italic",
+                "location":{
+                  "x":284,
+                  "y":250},
+                "size":{
+                  "width":190,
+                  "height":273}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open https://www.imdb.com/title/tt1655389/?ref_=fn_al_tt_1 in New Window/Tab",
+                      "target":{
+                        "targetType":"webUrl",
+                        "urlLiteral":{
+                          "exprType":"stringLiteral",
+                          "value":"https://www.imdb.com/title/tt1655389/?ref_=fn_al_tt_1",
+                          "stos":[]},
+                        "includeVariables":false},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/home/u38.png"}},
+{
+          "id":"0b848a8fb41e4f039a1b68bc591a6d09",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+            "fontSize":"14px",
+            "fontWeight":"700",
+            "fontStyle":"italic",
+            "location":{
+              "x":533,
+              "y":529},
+            "size":{
+              "width":200,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4ef8b7e805a542cca7dd8d28e0bcef10",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+                "fontSize":"14px",
+                "fontWeight":"700",
+                "fontStyle":"italic",
+                "location":{
+                  "x":533,
+                  "y":529},
+                "size":{
+                  "width":200,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"708f5cea202f4fd2b7988f791519a099",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+            "fontSize":"14px",
+            "fontWeight":"700",
+            "fontStyle":"italic",
+            "location":{
+              "x":524,
+              "y":250},
+            "size":{
+              "width":190,
+              "height":273}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"16248492c1354a33940b403941be1b58",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+                "fontSize":"14px",
+                "fontWeight":"700",
+                "fontStyle":"italic",
+                "location":{
+                  "x":524,
+                  "y":250},
+                "size":{
+                  "width":190,
+                  "height":273}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open https://www.imdb.com/title/tt12996154/?ref_=fn_al_tt_1 in New Window/Tab",
+                      "target":{
+                        "targetType":"webUrl",
+                        "urlLiteral":{
+                          "exprType":"stringLiteral",
+                          "value":"https://www.imdb.com/title/tt12996154/?ref_=fn_al_tt_1",
+                          "stos":[]},
+                        "includeVariables":false},
+                      "linkType":"new"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/home/u42.png"}},
+{
+          "id":"cea2720546404434a86cbd0658a05443",
+          "label":"",
+          "type":"menuObject",
+          "styleType":"menuObject",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":384,
+              "y":41.5},
+            "size":{
+              "width":600,
+              "height":27}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"91fa25be6ceb4e128fb88a57f87979c9",
+              "label":"",
+              "type":"table",
+              "styleType":"table",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":600,
+                  "height":27}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"8184565b933d469baab3d1e2f3534145",
+                  "label":"",
+                  "type":"tableCell",
+                  "styleType":"tableCell",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Bold', 'Arial'",
+                    "fontWeight":"700",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF},
+                    "size":{
+                      "width":100,
+                      "height":27}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"01a0a0a1239b4790a8474597d73bc7d9",
+                      "label":"",
+                      "isContained":true,
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Bold', 'Arial'",
+                        "fontWeight":"700",
+                        "horizontalAlignment":"center",
+                        "verticalAlignment":"middle",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF},
+                        "size":{
+                          "width":100,
+                          "height":27}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"Open Home in Current Window",
+                              "target":{
+                                "targetType":"page",
+                                "url":"home.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/home/u72.png"}},
+{
+                  "id":"875e69b6a76d409ab1c6ac8b540c8e49",
+                  "label":"",
+                  "type":"tableCell",
+                  "styleType":"tableCell",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Bold', 'Arial'",
+                    "fontWeight":"700",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF},
+                    "location":{
+                      "x":100,
+                      "y":0},
+                    "size":{
+                      "width":100,
+                      "height":27}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"8b3a748049b34781bea748d7cf868e70",
+                      "label":"",
+                      "isContained":true,
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Bold', 'Arial'",
+                        "fontWeight":"700",
+                        "horizontalAlignment":"center",
+                        "verticalAlignment":"middle",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF},
+                        "location":{
+                          "x":100,
+                          "y":0},
+                        "size":{
+                          "width":100,
+                          "height":27}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"Open Action in Current Window",
+                              "target":{
+                                "targetType":"page",
+                                "url":"action.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/home/u72.png"}},
+{
+                  "id":"4fca07d8433b47fdb95ec3f4f03c10f3",
+                  "label":"",
+                  "type":"tableCell",
+                  "styleType":"tableCell",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Bold', 'Arial'",
+                    "fontWeight":"700",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF},
+                    "location":{
+                      "x":200,
+                      "y":0},
+                    "size":{
+                      "width":100,
+                      "height":27}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"5047c174831e4e2fa9643d67d4494e08",
+                      "label":"",
+                      "isContained":true,
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Bold', 'Arial'",
+                        "fontWeight":"700",
+                        "horizontalAlignment":"center",
+                        "verticalAlignment":"middle",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF},
+                        "location":{
+                          "x":200,
+                          "y":0},
+                        "size":{
+                          "width":100,
+                          "height":27}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"Open Comedy in Current Window",
+                              "target":{
+                                "targetType":"page",
+                                "url":"comedy.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/home/u72.png"}},
+{
+                  "id":"3241d9ad8032438fbb0c6f33ad471eec",
+                  "label":"",
+                  "type":"tableCell",
+                  "styleType":"tableCell",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Bold', 'Arial'",
+                    "fontWeight":"700",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF},
+                    "location":{
+                      "x":300,
+                      "y":0},
+                    "size":{
+                      "width":100,
+                      "height":27}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"b5c9b28ca8c24b01bb0eee4cb98b2ec9",
+                      "label":"",
+                      "isContained":true,
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Bold', 'Arial'",
+                        "fontWeight":"700",
+                        "horizontalAlignment":"center",
+                        "verticalAlignment":"middle",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF},
+                        "location":{
+                          "x":300,
+                          "y":0},
+                        "size":{
+                          "width":100,
+                          "height":27}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"Open Horror in Current Window",
+                              "target":{
+                                "targetType":"page",
+                                "url":"horror.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/home/u72.png"}},
+{
+                  "id":"ca08a4760950410a94be9989f97dd818",
+                  "label":"",
+                  "type":"tableCell",
+                  "styleType":"tableCell",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Bold', 'Arial'",
+                    "fontWeight":"700",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF},
+                    "location":{
+                      "x":400,
+                      "y":0},
+                    "size":{
+                      "width":100,
+                      "height":27}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"17576caf679d48dc939ee87a8f2e3caa",
+                      "label":"",
+                      "isContained":true,
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Bold', 'Arial'",
+                        "fontWeight":"700",
+                        "horizontalAlignment":"center",
+                        "verticalAlignment":"middle",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF},
+                        "location":{
+                          "x":400,
+                          "y":0},
+                        "size":{
+                          "width":100,
+                          "height":27}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"Open Animation in Current Window",
+                              "target":{
+                                "targetType":"page",
+                                "url":"animation.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/home/u72.png"}},
+{
+                  "id":"42558aa98fa44f168b27ab3a507b9a5b",
+                  "label":"",
+                  "type":"tableCell",
+                  "styleType":"tableCell",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Bold', 'Arial'",
+                    "fontWeight":"700",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF},
+                    "location":{
+                      "x":500,
+                      "y":0},
+                    "size":{
+                      "width":100,
+                      "height":27}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"69a605a4fc59450ca17f79f948ae5c76",
+                      "label":"",
+                      "isContained":true,
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Bold', 'Arial'",
+                        "fontWeight":"700",
+                        "horizontalAlignment":"center",
+                        "verticalAlignment":"middle",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFF},
+                        "location":{
+                          "x":500,
+                          "y":0},
+                        "size":{
+                          "width":100,
+                          "height":27}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"Open Romance in Current Window",
+                              "target":{
+                                "targetType":"page",
+                                "url":"romance.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/home/u82.png"}}]}]},
+{
+          "id":"b9b3a4a7b611498ca26ac600bf935275",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+            "fontSize":"14px",
+            "fontWeight":"700",
+            "fontStyle":"italic",
+            "location":{
+              "x":759,
+              "y":250},
+            "size":{
+              "width":190,
+              "height":273}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1f147901022748128c9e1f93517f63dd",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+                "fontSize":"14px",
+                "fontWeight":"700",
+                "fontStyle":"italic",
+                "location":{
+                  "x":759,
+                  "y":250},
+                "size":{
+                  "width":190,
+                  "height":273}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open https://www.imdb.com/title/tt14456350/?ref_=nv_sr_srsg_0 in Current Window",
+                      "target":{
+                        "targetType":"webUrl",
+                        "urlLiteral":{
+                          "exprType":"stringLiteral",
+                          "value":"https://www.imdb.com/title/tt14456350/?ref_=nv_sr_srsg_0",
+                          "stos":[]},
+                        "includeVariables":false},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/romance/u28.png"}},
+{
+          "id":"480397015b944b588abe4cf21722cc2a",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+            "fontSize":"14px",
+            "fontWeight":"700",
+            "fontStyle":"italic",
+            "location":{
+              "x":811,
+              "y":529},
+            "size":{
+              "width":200,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"354c28e61aee44faad3cb43ad6caca64",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+                "fontSize":"14px",
+                "fontWeight":"700",
+                "fontStyle":"italic",
+                "location":{
+                  "x":811,
+                  "y":529},
+                "size":{
+                  "width":200,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"015f82d6a14f4d1da5f22357856befac",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+            "fontSize":"14px",
+            "fontWeight":"700",
+            "fontStyle":"italic",
+            "location":{
+              "x":40,
+              "y":586},
+            "size":{
+              "width":190,
+              "height":273}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8ce4ca9be82249f4984e1b9a555e94ae",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+                "fontSize":"14px",
+                "fontWeight":"700",
+                "fontStyle":"italic",
+                "location":{
+                  "x":40,
+                  "y":586},
+                "size":{
+                  "width":190,
+                  "height":273}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open https://www.imdb.com/title/tt13249596/?ref_=nv_sr_srsg_3 in Current Window",
+                      "target":{
+                        "targetType":"webUrl",
+                        "urlLiteral":{
+                          "exprType":"stringLiteral",
+                          "value":"https://www.imdb.com/title/tt13249596/?ref_=nv_sr_srsg_3",
+                          "stos":[]},
+                        "includeVariables":false},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/romance/u32.png"}},
+{
+          "id":"34fc5657671749bea9b9d9e0806c58b8",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+            "fontSize":"14px",
+            "fontWeight":"700",
+            "fontStyle":"italic",
+            "location":{
+              "x":43,
+              "y":864},
+            "size":{
+              "width":200,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"93eae2694f5f4b46a9255efa4df05e65",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+                "fontSize":"14px",
+                "fontWeight":"700",
+                "fontStyle":"italic",
+                "location":{
+                  "x":43,
+                  "y":864},
+                "size":{
+                  "width":200,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"08acfaff382949c6bfcea2ca0479acc6",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+            "fontSize":"14px",
+            "fontWeight":"700",
+            "fontStyle":"italic",
+            "location":{
+              "x":284,
+              "y":591},
+            "size":{
+              "width":190,
+              "height":268}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c238a20f691047ce83a170e4ccfb5b7b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+                "fontSize":"14px",
+                "fontWeight":"700",
+                "fontStyle":"italic",
+                "location":{
+                  "x":284,
+                  "y":591},
+                "size":{
+                  "width":190,
+                  "height":268}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open https://www.imdb.com/title/tt13456318/?ref_=nv_sr_srsg_0 in Current Window",
+                      "target":{
+                        "targetType":"webUrl",
+                        "urlLiteral":{
+                          "exprType":"stringLiteral",
+                          "value":"https://www.imdb.com/title/tt13456318/?ref_=nv_sr_srsg_0",
+                          "stos":[]},
+                        "includeVariables":false},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/romance/u36.png"}},
+{
+          "id":"8cf8e1d1fd3d4cb795f2244e51e44d46",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+            "fontSize":"14px",
+            "fontWeight":"700",
+            "fontStyle":"italic",
+            "location":{
+              "x":335,
+              "y":864},
+            "size":{
+              "width":200,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d633f730063d4bce8329a85ee49c9b01",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+                "fontSize":"14px",
+                "fontWeight":"700",
+                "fontStyle":"italic",
+                "location":{
+                  "x":335,
+                  "y":864},
+                "size":{
+                  "width":200,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"0a3c62258cc04a398617295a4869f20b",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+            "fontSize":"14px",
+            "fontWeight":"700",
+            "fontStyle":"italic",
+            "location":{
+              "x":524,
+              "y":591},
+            "size":{
+              "width":187,
+              "height":268}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3be015a707014fa19789851b53d1dc80",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+                "fontSize":"14px",
+                "fontWeight":"700",
+                "fontStyle":"italic",
+                "location":{
+                  "x":524,
+                  "y":591},
+                "size":{
+                  "width":187,
+                  "height":268}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open https://www.imdb.com/title/tt14486678/?ref_=nv_sr_srsg_0 in Current Window",
+                      "target":{
+                        "targetType":"webUrl",
+                        "urlLiteral":{
+                          "exprType":"stringLiteral",
+                          "value":"https://www.imdb.com/title/tt14486678/?ref_=nv_sr_srsg_0",
+                          "stos":[]},
+                        "includeVariables":false},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/romance/u40.png"}},
+{
+          "id":"c28ae3d5a1bf4a6d968893aee7a1ed91",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+            "fontSize":"14px",
+            "fontWeight":"700",
+            "fontStyle":"italic",
+            "location":{
+              "x":570,
+              "y":865},
+            "size":{
+              "width":200,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"35f1d4a7ca2c4a0aa7197f0fd9015ba7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+                "fontSize":"14px",
+                "fontWeight":"700",
+                "fontStyle":"italic",
+                "location":{
+                  "x":570,
+                  "y":865},
+                "size":{
+                  "width":200,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"e1d24ca4696c4583995d46d8b764d92d",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+            "fontSize":"14px",
+            "fontWeight":"700",
+            "fontStyle":"italic",
+            "location":{
+              "x":757,
+              "y":864},
+            "size":{
+              "width":200,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8c455c5a3ad6415981bbb8fa393d5059",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+                "fontSize":"14px",
+                "fontWeight":"700",
+                "fontStyle":"italic",
+                "location":{
+                  "x":757,
+                  "y":864},
+                "size":{
+                  "width":200,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"908eae103285451bb20c3c13a999fe7f",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+            "fontSize":"14px",
+            "fontWeight":"700",
+            "fontStyle":"italic",
+            "location":{
+              "x":759,
+              "y":591},
+            "size":{
+              "width":185,
+              "height":268}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b0ef30ec85154fa780c765d9bb7b0655",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+                "fontSize":"14px",
+                "fontWeight":"700",
+                "fontStyle":"italic",
+                "location":{
+                  "x":759,
+                  "y":591},
+                "size":{
+                  "width":185,
+                  "height":268}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open https://www.imdb.com/title/tt14715170/?ref_=nv_sr_srsg_0 in Current Window",
+                      "target":{
+                        "targetType":"webUrl",
+                        "urlLiteral":{
+                          "exprType":"stringLiteral",
+                          "value":"https://www.imdb.com/title/tt14715170/?ref_=nv_sr_srsg_0",
+                          "stos":[]},
+                        "includeVariables":false},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/romance/u46.png"}},
+{
+          "id":"012ada03a82547e8a9e5abded14019c2",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+            "fontSize":"14px",
+            "fontWeight":"700",
+            "fontStyle":"italic",
+            "location":{
+              "x":42,
+              "y":1214},
+            "size":{
+              "width":200,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"49ea505d467542ce93d6fede56801cdb",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+                "fontSize":"14px",
+                "fontWeight":"700",
+                "fontStyle":"italic",
+                "location":{
+                  "x":42,
+                  "y":1214},
+                "size":{
+                  "width":200,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"f2f73179c38f406f9fe1f92717679c46",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+            "fontSize":"14px",
+            "fontWeight":"700",
+            "fontStyle":"italic",
+            "location":{
+              "x":40,
+              "y":936},
+            "size":{
+              "width":190,
+              "height":274}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b38ad4d518554dee88685a10bb15fcf8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+                "fontSize":"14px",
+                "fontWeight":"700",
+                "fontStyle":"italic",
+                "location":{
+                  "x":40,
+                  "y":936},
+                "size":{
+                  "width":190,
+                  "height":274}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open https://www.imdb.com/title/tt14463484/?ref_=nv_sr_srsg_0 in Current Window",
+                      "target":{
+                        "targetType":"webUrl",
+                        "urlLiteral":{
+                          "exprType":"stringLiteral",
+                          "value":"https://www.imdb.com/title/tt14463484/?ref_=nv_sr_srsg_0",
+                          "stos":[]},
+                        "includeVariables":false},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/romance/u50.png"}},
+{
+          "id":"483014dd18c3415a94257fef811193a2",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+            "fontSize":"14px",
+            "fontWeight":"700",
+            "fontStyle":"italic",
+            "location":{
+              "x":284,
+              "y":936},
+            "size":{
+              "width":190,
+              "height":274}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"44c0bf98ca9e468da7e55910e2b75fda",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+                "fontSize":"14px",
+                "fontWeight":"700",
+                "fontStyle":"italic",
+                "location":{
+                  "x":284,
+                  "y":936},
+                "size":{
+                  "width":190,
+                  "height":274}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open https://www.imdb.com/title/tt4614584/?ref_=nv_sr_srsg_0 in Current Window",
+                      "target":{
+                        "targetType":"webUrl",
+                        "urlLiteral":{
+                          "exprType":"stringLiteral",
+                          "value":"https://www.imdb.com/title/tt4614584/?ref_=nv_sr_srsg_0",
+                          "stos":[]},
+                        "includeVariables":false},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/romance/u52.png"}},
+{
+          "id":"cf9703e1e22f4e888f931f956b085416",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+            "fontSize":"14px",
+            "fontWeight":"700",
+            "fontStyle":"italic",
+            "location":{
+              "x":318,
+              "y":1214},
+            "size":{
+              "width":200,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2fae162a72a143ab941234f8b84d6b30",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+                "fontSize":"14px",
+                "fontWeight":"700",
+                "fontStyle":"italic",
+                "location":{
+                  "x":318,
+                  "y":1214},
+                "size":{
+                  "width":200,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"8545701b291d418ea94e4d07eb6367fc",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+            "fontSize":"14px",
+            "fontWeight":"700",
+            "fontStyle":"italic",
+            "location":{
+              "x":544,
+              "y":1214},
+            "size":{
+              "width":200,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1511be54e94048f2a369deeddc25548a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+                "fontSize":"14px",
+                "fontWeight":"700",
+                "fontStyle":"italic",
+                "location":{
+                  "x":544,
+                  "y":1214},
+                "size":{
+                  "width":200,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"ff58167d4a6448018872430035d81feb",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+            "fontSize":"14px",
+            "fontWeight":"700",
+            "fontStyle":"italic",
+            "location":{
+              "x":524,
+              "y":931},
+            "size":{
+              "width":190,
+              "height":279}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c8b788b507aa4f199dfea47340cdc54e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+                "fontSize":"14px",
+                "fontWeight":"700",
+                "fontStyle":"italic",
+                "location":{
+                  "x":524,
+                  "y":931},
+                "size":{
+                  "width":190,
+                  "height":279}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open https://www.imdb.com/title/tt8851148/?ref_=nv_sr_srsg_0 in Current Window",
+                      "target":{
+                        "targetType":"webUrl",
+                        "urlLiteral":{
+                          "exprType":"stringLiteral",
+                          "value":"https://www.imdb.com/title/tt8851148/?ref_=nv_sr_srsg_0",
+                          "stos":[]},
+                        "includeVariables":false},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/romance/u58.png"}},
+{
+          "id":"535672387b3b4e97b781260bbf5b1838",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+            "fontSize":"14px",
+            "fontWeight":"700",
+            "fontStyle":"italic",
+            "location":{
+              "x":775,
+              "y":1214},
+            "size":{
+              "width":200,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fb5d2ade4c514da695a0fc74b5d49b5d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+                "fontSize":"14px",
+                "fontWeight":"700",
+                "fontStyle":"italic",
+                "location":{
+                  "x":775,
+                  "y":1214},
+                "size":{
+                  "width":200,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"d3991af9e0064d3ba4f218b47caf6968",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+            "fontSize":"14px",
+            "fontWeight":"700",
+            "fontStyle":"italic",
+            "location":{
+              "x":759,
+              "y":931},
+            "size":{
+              "width":190,
+              "height":279}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"637ae58c938f4564b2850edaf892ca00",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Lucida Handwriting Italic Bold', 'Lucida Handwriting'",
+                "fontSize":"14px",
+                "fontWeight":"700",
+                "fontStyle":"italic",
+                "location":{
+                  "x":759,
+                  "y":931},
+                "size":{
+                  "width":190,
+                  "height":279}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"Open https://www.imdb.com/title/tt14506528/?ref_=nv_sr_srsg_0 in Current Window",
+                      "target":{
+                        "targetType":"webUrl",
+                        "urlLiteral":{
+                          "exprType":"stringLiteral",
+                          "value":"https://www.imdb.com/title/tt14506528/?ref_=nv_sr_srsg_0",
+                          "stos":[]},
+                        "includeVariables":false},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/romance/u62.png"}},
+{
+          "id":"741c83cc352a47b5b0e5a78a26541966",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "fontName":"'Bernard MT Condensed', 'Bernard MT'",
+            "fontSize":"72px",
+            "fontWeight":"400",
+            "verticalAlignment":"middle",
+            "location":{
+              "x":41,
+              "y":10},
+            "size":{
+              "width":232,
+              "height":110}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c927346e44be4c8fb1d7e2ff58211ab8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Bernard MT Condensed', 'Bernard MT'",
+                "fontSize":"72px",
+                "fontWeight":"400",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":41,
+                  "y":10},
+                "size":{
+                  "width":232,
+                  "height":110}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "79c584d9be5f4e5ca3ce1940bd8ecc0b":{
+      "scriptId":"u0"},
+    "07e8f419f7ad42b9bc2cf56183e96d25":{
+      "scriptId":"u1"},
+    "8d4963d0387f4097a016ad0980ffacf1":{
+      "scriptId":"u2"},
+    "3b8b8c6fa2ea48a5aadb476c057393a2":{
+      "scriptId":"u3"},
+    "79b426f9ec3f4a54943f7e82fe06d1a8":{
+      "scriptId":"u4"},
+    "7a03c418374a4825b30c9e20736c1711":{
+      "scriptId":"u5"},
+    "06fe60ce6cf842e7b699f0ca3fd1cb4b":{
+      "scriptId":"u6"},
+    "967c141affd94087a1ee8a3ea479c460":{
+      "scriptId":"u7"},
+    "2de723e279e04098ba55863ee7c4c854":{
+      "scriptId":"u8"},
+    "de72b61ce0d0442d91cbe1a68e7d2431":{
+      "scriptId":"u9"},
+    "0b848a8fb41e4f039a1b68bc591a6d09":{
+      "scriptId":"u10"},
+    "4ef8b7e805a542cca7dd8d28e0bcef10":{
+      "scriptId":"u11"},
+    "708f5cea202f4fd2b7988f791519a099":{
+      "scriptId":"u12"},
+    "16248492c1354a33940b403941be1b58":{
+      "scriptId":"u13"},
+    "cea2720546404434a86cbd0658a05443":{
+      "scriptId":"u14"},
+    "91fa25be6ceb4e128fb88a57f87979c9":{
+      "scriptId":"u15"},
+    "8184565b933d469baab3d1e2f3534145":{
+      "scriptId":"u16"},
+    "01a0a0a1239b4790a8474597d73bc7d9":{
+      "scriptId":"u17"},
+    "875e69b6a76d409ab1c6ac8b540c8e49":{
+      "scriptId":"u18"},
+    "8b3a748049b34781bea748d7cf868e70":{
+      "scriptId":"u19"},
+    "4fca07d8433b47fdb95ec3f4f03c10f3":{
+      "scriptId":"u20"},
+    "5047c174831e4e2fa9643d67d4494e08":{
+      "scriptId":"u21"},
+    "3241d9ad8032438fbb0c6f33ad471eec":{
+      "scriptId":"u22"},
+    "b5c9b28ca8c24b01bb0eee4cb98b2ec9":{
+      "scriptId":"u23"},
+    "ca08a4760950410a94be9989f97dd818":{
+      "scriptId":"u24"},
+    "17576caf679d48dc939ee87a8f2e3caa":{
+      "scriptId":"u25"},
+    "42558aa98fa44f168b27ab3a507b9a5b":{
+      "scriptId":"u26"},
+    "69a605a4fc59450ca17f79f948ae5c76":{
+      "scriptId":"u27"},
+    "b9b3a4a7b611498ca26ac600bf935275":{
+      "scriptId":"u28"},
+    "1f147901022748128c9e1f93517f63dd":{
+      "scriptId":"u29"},
+    "480397015b944b588abe4cf21722cc2a":{
+      "scriptId":"u30"},
+    "354c28e61aee44faad3cb43ad6caca64":{
+      "scriptId":"u31"},
+    "015f82d6a14f4d1da5f22357856befac":{
+      "scriptId":"u32"},
+    "8ce4ca9be82249f4984e1b9a555e94ae":{
+      "scriptId":"u33"},
+    "34fc5657671749bea9b9d9e0806c58b8":{
+      "scriptId":"u34"},
+    "93eae2694f5f4b46a9255efa4df05e65":{
+      "scriptId":"u35"},
+    "08acfaff382949c6bfcea2ca0479acc6":{
+      "scriptId":"u36"},
+    "c238a20f691047ce83a170e4ccfb5b7b":{
+      "scriptId":"u37"},
+    "8cf8e1d1fd3d4cb795f2244e51e44d46":{
+      "scriptId":"u38"},
+    "d633f730063d4bce8329a85ee49c9b01":{
+      "scriptId":"u39"},
+    "0a3c62258cc04a398617295a4869f20b":{
+      "scriptId":"u40"},
+    "3be015a707014fa19789851b53d1dc80":{
+      "scriptId":"u41"},
+    "c28ae3d5a1bf4a6d968893aee7a1ed91":{
+      "scriptId":"u42"},
+    "35f1d4a7ca2c4a0aa7197f0fd9015ba7":{
+      "scriptId":"u43"},
+    "e1d24ca4696c4583995d46d8b764d92d":{
+      "scriptId":"u44"},
+    "8c455c5a3ad6415981bbb8fa393d5059":{
+      "scriptId":"u45"},
+    "908eae103285451bb20c3c13a999fe7f":{
+      "scriptId":"u46"},
+    "b0ef30ec85154fa780c765d9bb7b0655":{
+      "scriptId":"u47"},
+    "012ada03a82547e8a9e5abded14019c2":{
+      "scriptId":"u48"},
+    "49ea505d467542ce93d6fede56801cdb":{
+      "scriptId":"u49"},
+    "f2f73179c38f406f9fe1f92717679c46":{
+      "scriptId":"u50"},
+    "b38ad4d518554dee88685a10bb15fcf8":{
+      "scriptId":"u51"},
+    "483014dd18c3415a94257fef811193a2":{
+      "scriptId":"u52"},
+    "44c0bf98ca9e468da7e55910e2b75fda":{
+      "scriptId":"u53"},
+    "cf9703e1e22f4e888f931f956b085416":{
+      "scriptId":"u54"},
+    "2fae162a72a143ab941234f8b84d6b30":{
+      "scriptId":"u55"},
+    "8545701b291d418ea94e4d07eb6367fc":{
+      "scriptId":"u56"},
+    "1511be54e94048f2a369deeddc25548a":{
+      "scriptId":"u57"},
+    "ff58167d4a6448018872430035d81feb":{
+      "scriptId":"u58"},
+    "c8b788b507aa4f199dfea47340cdc54e":{
+      "scriptId":"u59"},
+    "535672387b3b4e97b781260bbf5b1838":{
+      "scriptId":"u60"},
+    "fb5d2ade4c514da695a0fc74b5d49b5d":{
+      "scriptId":"u61"},
+    "d3991af9e0064d3ba4f218b47caf6968":{
+      "scriptId":"u62"},
+    "637ae58c938f4564b2850edaf892ca00":{
+      "scriptId":"u63"},
+    "741c83cc352a47b5b0e5a78a26541966":{
+      "scriptId":"u64"},
+    "c927346e44be4c8fb1d7e2ff58211ab8":{
+      "scriptId":"u65"}}});
